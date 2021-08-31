@@ -193,3 +193,9 @@ z_final['Thresh'] = threshold_new
 z_final['Anomaly'] = z_final['M_dist']>z_final['Thresh']
 z_final.index = z_PCA.index
 '''
+
+'''
+ref. Articles - 
+https://towardsdatascience.com/machine-learning-for-anomaly-detection-and-condition-monitoring-d4614e7de770
+https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7
+'''
