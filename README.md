@@ -10,7 +10,7 @@ These PC's are used to calculate Mahalanobis distance.
 
 Reason for using this distance metric-
 1) Euclidean distance assumption - no correlation amongst variables.
-2) Mahalanobis uses the covariance matrix in calculation in order to forgeo this assumption.
+2) Mahalanobis uses the covariance matrix in calculation in order to forgo this assumption.
 
 5 Sensors Data over a period of 1 year 2016
 
